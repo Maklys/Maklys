@@ -19,7 +19,7 @@
 <p align="center">
     <a href="https://discord.com/users/328117755276689408">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Meklys%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/Meklys">
+  <a href="https://github.com/Maklys">
    <img alt="Github" src="https://img.shields.io/github/followers/Meklys?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
@@ -63,13 +63,13 @@
 
 - 📌 Information about all Products [Information](https://github.com/Club-CC/Detail)
 
-- 👋 Hello I'am Meklys Full Stack Developer
+- 👋 Hello I'am Subudy Full Stack Developer
 
 - 🎓Advanced Master in Programming / Graduated at **Bangkok University**
 
 - 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
 
-- 💬 Discord [Maklys#0001](https://discord.com/users/328117755276689408) | [Discord Server](https://discord.gg/6B9g8PFWCV)
+- 💬 Discord [Subudy](https://discord.com/users/328117755276689408) | [Discord Server](https://discord.gg/fullylegit)
 
 
 </pre><br>

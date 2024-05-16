@@ -3,14 +3,14 @@
 
 <p align="center">
 
-![Maklys Official](https://cdn.discordapp.com/attachments/774781271155015730/1051563676840247366/CostlyCourageousImpala-size_restricted.gif)
+![Subudy Official](https://cdn.discordapp.com/attachments/774781271155015730/1051563676840247366/CostlyCourageousImpala-size_restricted.gif)
 
 
 
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Website-Meklys.net-blue?style=for-the-badge)](https://subudy.net/)
+[![Website Badge](https://img.shields.io/badge/Website-Subudy.net-blue?style=for-the-badge)](https://subudy.net/)
   
 
 
@@ -18,9 +18,9 @@
 
 <p align="center">
     <a href="https://discord.com/users/328117755276689408">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Meklys%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/Maklys">
-   <img alt="Github" src="https://img.shields.io/github/followers/Meklys?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Subudy%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+  <a href="https://github.com/Subudy">
+   <img alt="Github" src="https://img.shields.io/github/followers/Subudy?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Schweinepriester&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/ryo-ma)
@@ -46,14 +46,14 @@
 
 <h2 align="center">My github profile stastictics.</h2>
 <p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Meklys&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Meklys" width = "60%"/>
-<!--<img src="https://github-profile-trophy.vercel.app/?username=Meklys&theme=onedadarkrk&no-frame=true&no-bg=true" alt = "Meklys" height = 150/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Subudy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Subudy" width = "60%"/>
+<!--<img src="https://github-profile-trophy.vercel.app/?username=Subudy&theme=onedadarkrk&no-frame=true&no-bg=true" alt = "Subudy" height = 150/> -->
 </p>
 
 
 <h2 align="center">
 
-![Meklys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meklys&show_icons=true&theme=transparent)
+![Subudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subudy&show_icons=true&theme=transparent)
   
 
 

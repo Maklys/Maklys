@@ -10,7 +10,7 @@
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Website-Meklys.net-blue?style=for-the-badge)](https://maklysdev.net/)
+[![Website Badge](https://img.shields.io/badge/Website-Meklys.net-blue?style=for-the-badge)](https://subudy.net/)
   
 
 
